@@ -1,2 +1,2 @@
-# UpsilonMedicalCorporation.github.io
-Upsilon Medical Corporation Public Home Page
+# Upsilon Medical Corporation
+The Public Home Page for Upsilon Medical Corporation
