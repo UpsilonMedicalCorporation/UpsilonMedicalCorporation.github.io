@@ -156,6 +156,7 @@ header {
     @include background-cover;
     background-position: center;
     background-image: url('../img/background.jpg');
+    backdrop-filter: brightness(80%);
     text-align: center;
     color: white;
     .header-content {
